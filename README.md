@@ -19,5 +19,5 @@ Estou sempre desafiando meus limites e buscando novas conquistas. Juntos, vamos 
 
 ## 📫 Entre em Contato
 
-- LinkedIn: [Seu LinkedIn]([link_linkedin](https://www.linkedin.com/in/leticiarodrigues27/)https://www.linkedin.com/in/leticiarodrigues27/)
-- Instagram: [Seu Website](link_website)
+- LinkedIn: [leticiarodrigues27](https://www.linkedin.com/in/leticiarodrigues27/)
+
