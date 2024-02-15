@@ -19,5 +19,5 @@ Estou focado em aprimorar minhas habilidades em:
 
 ## 📫 Entre em Contato
 
-- LinkedIn: [Seu LinkedIn](link_linkedin)
+- LinkedIn: [Seu LinkedIn]([link_linkedin](https://www.linkedin.com/in/leticiarodrigues27/)https://www.linkedin.com/in/leticiarodrigues27/)
 - Instagram: [Seu Website](link_website)
