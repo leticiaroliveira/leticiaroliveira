@@ -20,13 +20,6 @@ Estou focado em aprimorar minhas habilidades em:
 ### [Nome do Projeto 1](link_projeto_1)
 Breve descrição do Projeto 1.
 
-### [Nome do Projeto 2](link_projeto_2)
-Breve descrição do Projeto 2.
-
-## 🎨 Desenvolvedor Fofo
-
-![Gato Fofo](url_imagem_gato_fofo.jpg)
-
 ### Sobre Mim
 
 Oi, sou de Beagá, apaixonada por tecnologia e em busca do pódio! 💻✨
