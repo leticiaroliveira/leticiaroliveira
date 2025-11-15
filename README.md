@@ -1,15 +1,16 @@
-# 👋 Olá! Eu sou o *Seu Nome*
+# 👋 Olá! Eu sou a *Letícia*
 
-🎯 **Desenvolvedor em evolução**  
+🎯 **Desenvolvedora em evolução**  
 📱 Flutter • 🐍 Python • 🗄️ PostgreSQL  
 📘 Estudando: C • C# • .NET • MSSQL
 
 ---
 
 ## 🚀 Sobre mim
-Sou apaixonado por tecnologia e desenvolvimento de software.  
+Sou apaixonada por tecnologia e desenvolvimento de software.  
 
 Meu objetivo é evoluir como desenvolvedor full stack e trabalhar com desenvolvimento ou analise de sistema. 
+
 ---
 
 ### 🖥️ Linguagens & Frameworks
